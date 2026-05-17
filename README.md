@@ -1,16 +1,106 @@
-## Hi there 👋
+# Hi 👋 I'm Feysel Yassin
 
-<!--
-**feyyu120/feyyu120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack & Mobile Developer
 
-Here are some ideas to get you started:
+Building scalable web and mobile applications using React, React Native, Node.js, Express, and Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📱 React Native & Fullstack Developer
+- 🌐 Building web and mobile applications
+- ⚡ Interested in scalable backend systems and AI-enabled applications
+- 🧠 Competitive programmer using Python and C++
+- 🌱 Currently learning advanced React Native architecture and performance optimization
+
+---
+
+## 💻 Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Go](https://skillicons.dev/icons?i=go)
+
+---
+
+## 🎨 Frontend
+
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+---
+
+## 📱 Mobile Development
+
+![React Native](https://skillicons.dev/icons?i=react)
+![Expo](https://skillicons.dev/icons?i=expo)
+
+---
+
+## ⚙️ Backend
+
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Go](https://skillicons.dev/icons?i=go)
+
+---
+
+## 🗄️ Database
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+---
+
+## 🛠️ Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+---
+
+## 🌱 Currently Working On
+
+- Advanced React Native performance optimization
+- Scalable backend APIs with Go and Node.js
+- AI-enabled applications and modern mobile UI/UX systems
+
+---
+
+## 🚀 Featured Projects
+
+### AI-Enabled Fertilizer Distribution System
+A web and mobile platform designed to improve transparency and fairness in fertilizer distribution using React Native, React, Node.js, Express, and MongoDB.
+
+Features include:
+- Farmer registration and land verification
+- Fair allocation and distribution tracking
+- Delivery management system
+- AI-powered RAG assistant integration
+- Real-time inventory and farmer data management
+
+---
+
+## 🧠 Competitive Programming
+
+- Solving algorithmic and problem-solving challenges using Python and C++
+- Interested in data structures, algorithms, and optimization techniques
+- Continuously improving logical thinking and coding efficiency
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/feyyu120
+- Telegram: https://t.me/feyyu2
+- LinkedIn: https://linkedin.com/in/feysel-yassin-2957a4349/
+- Email: feyselfeyyu@gmail.com
