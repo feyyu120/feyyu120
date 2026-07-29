@@ -1,6 +1,6 @@
 # Hi 👋 I'm Feysel Yassin
 
-### Fullstack & Mobile Developer
+### Backend Engineer & Mobile Developer
 
 Building scalable web and mobile applications using React, React Native, Node.js, Express, and Go.
 
