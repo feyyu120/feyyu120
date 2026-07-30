@@ -76,19 +76,6 @@ Building scalable web and mobile applications using React, React Native, Node.js
 
 ---
 
-## 🚀 Featured Projects
-
-### AI-Enabled Fertilizer Distribution System
-A web and mobile platform designed to improve transparency and fairness in fertilizer distribution using React Native, React, Node.js, Express, and MongoDB.
-
-Features include:
-- Farmer registration and land verification
-- Fair allocation and distribution tracking
-- Delivery management system
-- AI-powered RAG assistant integration
-- Real-time inventory and farmer data management
-
----
 
 ## 🧠 Competitive Programming
 
