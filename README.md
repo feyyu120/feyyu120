@@ -2,7 +2,7 @@
 
 ### Backend Engineer & Mobile Developer
 
-Building scalable web and mobile applications using React, React Native, Node.js, Express, and Go.
+Building scalable web and mobile applications using React, React Native, and Go fiber.
 
 ---
 
@@ -17,9 +17,6 @@ Building scalable web and mobile applications using React, React Native, Node.js
 ---
 
 ## 💻 Languages & Stats
-
-### 📊 Most Used Languages
-![Feysel's Most Used Languages](https://vercel.app)
 
 ### 🛠️ Tech Stack
 ![Python](https://skillicons.dev/icons?i=python)
