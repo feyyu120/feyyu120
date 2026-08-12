@@ -71,7 +71,7 @@ Building scalable web and mobile applications using React, React Native, Node.js
 ## 🌱 Currently Working On
 
 - Advanced React Native performance optimization
-- Scalable backend APIs with Go and Node.js
+- Scalable backend APIs with Go fiber
 - AI-enabled applications and modern mobile UI/UX systems
 
 ---
