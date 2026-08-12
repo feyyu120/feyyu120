@@ -78,11 +78,8 @@ Building scalable web and mobile applications using React, React Native, and Go 
 ---
 
 
-## 🧠 Competitive Programming
-
-- Solving algorithmic and problem-solving challenges using Python and C++
-- Interested in data structures, algorithms, and optimization techniques
-- Continuously improving logical thinking and coding efficiency
+## 🧠 Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=feyyu120)](https://git.io/streak-stats)
 
 ---
 
