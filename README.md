@@ -16,8 +16,12 @@ Building scalable web and mobile applications using React, React Native, Node.js
 
 ---
 
-## 💻 Languages
+## 💻 Languages & Stats
 
+### 📊 Most Used Languages
+![Feysel's Most Used Languages](https://vercel.app)
+
+### 🛠️ Tech Stack
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
