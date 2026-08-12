@@ -78,8 +78,9 @@ Building scalable web and mobile applications using React, React Native, and Go 
 ---
 
 
-## 🧠 Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=feyyu120)](https://git.io/streak-stats)
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=feyyu120&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
