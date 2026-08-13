@@ -27,45 +27,8 @@ Building scalable web and mobile applications using React, React Native, and Go 
 ![Go](https://skillicons.dev/icons?i=go)
 
 ---
-
-## 🎨 Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
----
-
-## 📱 Mobile Development
-
-![React Native](https://skillicons.dev/icons?i=react)
-![Expo](https://skillicons.dev/icons?i=expo)
-
----
-
-## ⚙️ Backend
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Go](https://skillicons.dev/icons?i=go)
-
----
-
-## 🗄️ Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
----
-
-## 🛠️ Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Docker](https://skillicons.dev/icons?i=docker)
+### Top used languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feyyu120&layout=donut-vertical&theme=tokyonight)
 
 ---
 
