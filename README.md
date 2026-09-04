@@ -12,7 +12,7 @@ Building scalable web and mobile applications using React, React Native, and Go 
 - 🌐 Building web and mobile applications
 - ⚡ Interested in scalable backend systems and AI-enabled applications
 - 🧠 Competitive programmer using Python and C++
-- 🌱 Currently learning advanced React Native architecture and performance optimization
+- 🌱 Currently learning advanced Backend architecture and performance optimization
 
 ---
 
@@ -28,7 +28,7 @@ Building scalable web and mobile applications using React, React Native, and Go 
 
 ---
 ### Top used languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feyyu120&layout=donut-vertical&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feyyu120&layout=donut-vertical&theme=tokyonight&cache_seconds=86400)
 
 ---
 
