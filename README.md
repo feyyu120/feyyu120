@@ -8,7 +8,7 @@ Building scalable web and mobile applications using React, React Native, and Go 
 
 ## 🚀 About Me
 
-- 📱 React Native & Fullstack Developer
+- 📱 React Native & Gofiber Developer
 - 🌐 Building web and mobile applications
 - ⚡ Interested in scalable backend systems and AI-enabled applications
 - 🧠 Competitive programmer using Python and C++
