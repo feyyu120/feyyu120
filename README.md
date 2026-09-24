@@ -2,15 +2,13 @@
 
 ### Backend Engineer & Mobile Developer
 
-Building scalable web and mobile applications using React, React Native, and Go fiber.
+Building scalable web and mobile applications using React, React Native, and Go fiber and Postgres.
 
 ---
 
 ## 🚀 About Me
 
-- 📱 React Native & Gofiber Developer
 - 🌐 Building web and mobile applications
-- ⚡ Interested in scalable backend systems and AI-enabled applications
 - 🧠 Competitive programmer using Python and C++
 - 🌱 Currently learning advanced Backend architecture and performance optimization
 
@@ -34,7 +32,6 @@ Building scalable web and mobile applications using React, React Native, and Go 
 
 ## 🌱 Currently Working On
 
-- Advanced React Native performance optimization
 - Scalable backend APIs with Go fiber
 - AI-enabled applications and modern mobile UI/UX systems
 
